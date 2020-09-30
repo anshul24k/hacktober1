@@ -2,8 +2,8 @@
   <head>
   </head>
   <body>
-    <h1> Hacktober Fest <h1>
+    <h1> Hacktober Fest 2020 <h1>
   </body>
 </html>
-hi this is vipul
-hey
+Hi this is Vipul
+    Everyone here hey!
